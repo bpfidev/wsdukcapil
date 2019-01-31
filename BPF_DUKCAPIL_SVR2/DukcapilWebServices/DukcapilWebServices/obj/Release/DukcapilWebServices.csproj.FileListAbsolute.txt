@@ -1,0 +1,117 @@
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\ApplicationInsights.config
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\csc.exe
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\System.Collections.Immutable.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\vbc.exe
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\VBCSCompiler.exe
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\roslyn\VBCSCompiler.exe.config
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.dll.config
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.pdb
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Web.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.WindowsServer.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.ApplicationInsights.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Web.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.WindowsServer.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.ApplicationInsights.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.pdb
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.xml
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.dll
+D:\NOVA\Project Application\ASP.NET\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.pdb
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\ApplicationInsights.config
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\csc.exe
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\vbc.exe
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\VBCSCompiler.exe
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.dll.config
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.pdb
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Web.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.ApplicationInsights.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.Owin.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Owin.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\System.Net.Http.Formatting.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Web.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.ApplicationInsights.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.Owin.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.pdb
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\bin\System.Net.Http.Formatting.xml
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.csprojResolveAssemblyReference.cache
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.dll
+D:\Public\Server\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.pdb
+D:\DukcapilWebServices\DukcapilWebServices\bin\ApplicationInsights.config
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\csc.exe
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\System.Collections.Immutable.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\vbc.exe
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\VBCSCompiler.exe
+D:\DukcapilWebServices\DukcapilWebServices\bin\roslyn\VBCSCompiler.exe.config
+D:\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.dll.config
+D:\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\DukcapilWebServices.pdb
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Web.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.WindowsServer.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.ApplicationInsights.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.Owin.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Owin.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\System.Net.Http.Formatting.dll
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.Web.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.AI.WindowsServer.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.ApplicationInsights.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Microsoft.Owin.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.pdb
+D:\DukcapilWebServices\DukcapilWebServices\bin\Newtonsoft.Json.xml
+D:\DukcapilWebServices\DukcapilWebServices\bin\System.Net.Http.Formatting.xml
+D:\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.csprojResolveAssemblyReference.cache
+D:\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.dll
+D:\DukcapilWebServices\DukcapilWebServices\obj\Release\DukcapilWebServices.pdb
