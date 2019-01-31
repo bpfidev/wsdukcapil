@@ -31,7 +31,7 @@ namespace DukcapilWS
     // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
     // [System.Web.Script.Services.ScriptService]
     //=========================================================================================//
-    //TEST
+
     public class Dukcapil : System.Web.Services.WebService
     {
         public string Update(string NIK)
